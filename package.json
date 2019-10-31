@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/MelanieSyu/hw7/issues"
   },
-  "homepage": "https://github.com/MelanieSyu/hw7#readme"
+  "homepage": "https://github.com/MelanieSyu/hw7#readme",
+  "dependencies": {
+    "gulp": "4.0.2",
+    "gulp-cli": "2.2.0"
+  }
 }
